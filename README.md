@@ -2,7 +2,9 @@
 
 ## Algorithm Learn
 
-**Baekjoon : [wntjq68](https://www.acmicpc.net/user/wntjq68)**  ![GitHub top language](https://img.shields.io/github/languages/top/wntjq68/algorithm-learn?color=red&logo=Java)
+![GitHub top language](https://img.shields.io/github/languages/top/wntjq68/algorithm-learn?color=red&logo=Java)
+
+**Baekjoon : [wntjq68](https://www.acmicpc.net/user/wntjq68)**
 
 
 
