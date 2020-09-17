@@ -30,6 +30,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 2178 : 미로탐색](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/2178)** 
 >
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14502 : 연구소](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/14502)** 
+>
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 2573 : 빙산](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/2573)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 16236 : 아기상어](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/16236)**
