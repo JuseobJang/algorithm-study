@@ -24,39 +24,3 @@
 
    ![img](file:////Users/seob_jj/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
 
-   
-
- **Stack & Queue 이외 사용한 것**
-
-### Pair
-
->JAVA에는 사실 기본적으로 pair 가 없어서 직접 만들어 썻다. pair는 항상 유용하니 숙지하자
->
->Get Started 
->
->```java
->static class pair {
->        Integer key;
->        Integer value;
->
->        public pair(Integer key, Integer value) {
->            this.key = key;
->            this.value = value;
->        }
->
->        public Integer getKey() {
->            return key;
->        }
->
->        public Integer getValue() {
->            return value;
->        }
->    }
->```
->
-
-
-
-**참고** 
-
-사실 이 문제는 기본적으로는 시간복잡도 n^3 을 갖는다. 하지만 이러한 방식으로 시간복잡도 n으로 단축 시킬수 있다. 아무 생각없이 n^3 으로 백준에 제출하면 시간 초과가 뜬다. 그러기 위해서 백준에선 인풋하는 숫자의 범위를 엄청 넓게 설정 해뒀는데,  java의 long type가지곤 커버가 되지 않아, c++ 로 고친 후 ll (long long)을 쓰는 수고스러움을 부담 해버렸다. (실제로 정답자 코드들 중에 JAVA는 단 하나도 존재 하지 않았다)

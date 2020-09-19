@@ -6,6 +6,8 @@
 
 **Baekjoon : [wntjq68](https://www.acmicpc.net/user/wntjq68)**
 
+**[Java Class 정리](https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class)**
+
 
 
 ### Stack & Queue
@@ -37,6 +39,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 16236 : 아기상어](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/16236)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 1039 : 교환](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/1039)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1525 : 퍼즐](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/1525)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 13460 : 구슬 탈출2](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/13460)** 
 
