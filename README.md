@@ -44,5 +44,24 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 13460 : 구슬 탈출2](https://github.com/wntjq68/algorithm-learn/tree/master/DFS%20%26%20BFS/13460)** 
 
+---
+
+### CodePlus
+
+**SW 역량테스트 준비 -기초 : 수학** [보기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84%20-%EA%B8%B0%EC%B4%88%20:%20%EC%88%98%ED%95%99)
+>![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 1934 : 최소공배수](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20수학/1934)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 2609 : 최대공약수와 최소공배수](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20수학/2609)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Silver4-silver) **[Baekjoon 1978 : 소수찾기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20수학/1978)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 9613 : GCD합](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20수학/9613)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 6588 : 골드바흐의 추측](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20수학/6588)** 
+
+**SW 역량테스트 준비 -기초 : 브루트포스**
+
+
+
 
 
