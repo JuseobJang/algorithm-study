@@ -59,27 +59,39 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 6588 : 골드바흐의 추측](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20수학/6588)** 
 
-**SW 역량테스트 준비 -기초 : 브루트포스**[보기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84%20-%EA%B8%B0%EC%B4%88%20:%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)
+**SW 역량테스트 준비 -기초 : 브루트포스** [보기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84%20-%EA%B8%B0%EC%B4%88%20:%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)
 
->![tier](https://img.shields.io/badge/Tier-bronze2-brown) **[Baekjoon 2309 : 일곱 난쟁이](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/2309)** 
+>![tier](https://img.shields.io/badge/Tier-Bronze2-brown) **[Baekjoon 2309 : 일곱 난쟁이](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/2309)** 
 >
->![tier](https://img.shields.io/badge/Tier-silver5-silver) **[Baekjoon 1476 : 날짜계산](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/1476)**
+>![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 1476 : 날짜계산](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/1476)**
 >
->![tier](https://img.shields.io/badge/Tier-siver3-silver) **[Baekjoon 11723 : 집합](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/11723)** 
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 11723 : 집합](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/11723)** 
 >
->![tier](https://img.shields.io/badge/Tier-siver3-silver) **[Baekjoon 14501 : 퇴사](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/14501)**
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 14501 : 퇴사](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/14501)**
 >
->![tier](https://img.shields.io/badge/Tier-siver3-silver) **[Baekjoon 15658 : 연산자 끼워넣기(2)](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/15658)**  
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 15658 : 연산자 끼워넣기(2)](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/15658)**  
 >
->![tier](https://img.shields.io/badge/Tier-siver3-silver) **[Baekjoon 9095 : 1,2,3 더하기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/9095)**  
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 9095 : 1,2,3 더하기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/9095)**  
 >
->![tier](https://img.shields.io/badge/Tier-siver3-silver) **[Baekjoon 10972 : 다음 순열](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/10972)**
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10972 : 다음 순열](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/10972)**
 >
->![tier](https://img.shields.io/badge/Tier-siver3-silver) **[Baekjoon 10973 : 이전 순열](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/10973)**
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10973 : 이전 순열](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/10973)**
 >
->![tier](https://img.shields.io/badge/Tier-siver3-silver) **[Baekjoon 10974 : 모든 순열](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/10974)**  
-
-
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10974 : 모든 순열](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/10974)**  
+>
+>![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 1182 : 부분수열의 합](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/1182)**  
+>
+>![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 6603 : 로또](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/6603)**
+>
+>![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 10819 : 차이를 최대로](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/10819)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10971 : 왼판원 순회2](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/10971)**     
+>
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 14888 : 연산자 끼워넣기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/14888)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 1759 : 암호 만들기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/1759)**    
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14500 : 테트로미노](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20역량테스트%20준비%20-기초%20:%20브루트포스/14500)**  
 
 
 
