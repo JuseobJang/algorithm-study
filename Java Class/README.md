@@ -8,7 +8,11 @@
 
 - **[BufferedReader & BufferedWriter](https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/BufferedReader%20%26%20BufferedWriter)**
 
+- **[HashMap](https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/Hash)**
+
 - **[HashMap](https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/HashMap)**
+
+- **[HashSet](https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/HashSet)**
 
 - **[Iterator](https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/Iterator)**
 
