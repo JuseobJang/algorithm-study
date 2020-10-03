@@ -3,10 +3,10 @@
 * 연관 배열 구조 key - value 이 1:1 로 맵핑 되어 있는 구조
 * 장점 : 해쉬테이블을 이용한 삽입, 삭제, 탐색이기 때문에 평균적으로 O(1)의 시간 복잡도를 가지고 있다.
 * 단점 : 
- - 해쉬 충돌 발생 가능성이 존재.
- - 순서 또는 관게가 있는 배열에선 쓰기 힘듬
- - 공간 효율성이 떨어짐
- - hash function의 의존도가 높다. 평균 시간 복잡도는 O(1)이지만 hash function이 복잡해 질 경우 해쉬 테이블 연산속도가 엄청 늘어난다. 
+ 1. 해쉬 충돌 발생 가능성이 존재.
+ 2. 순서 또는 관게가 있는 배열에선 쓰기 힘듬
+ 3. 공간 효율성이 떨어짐
+ 4. hash function의 의존도가 높다. 평균 시간 복잡도는 O(1)이지만 hash function이 복잡해 질 경우 해쉬 테이블 연산속도가 엄청 늘어난다. 
 
 > **key**
 > hash function의 인풋으로 작용함
@@ -25,8 +25,8 @@
 > * hash table 의 기본 연산은 삽입, 삭제 , 탐색이다.
 
 Hash 를 이용한 java class
-(HashMap)[https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/HashMap]
-(HashSet)[https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/HashSet]
+- [HashMap](https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/HashMap)
+- [HashSet](https://github.com/wntjq68/algorithm-learn/tree/master/Java%20Class/HashSet)
 
 
 
