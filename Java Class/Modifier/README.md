@@ -1,4 +1,4 @@
-### Modifier
+## Modifier
 
 **Super Class**가 **Sub Class** 에게 inheritance(상속)을 하기 위해 존재하는 세가지 타입의 Modifier. 
 Pure virtual, Virtual, Non-virtual이고 이것을 JAVA 내에서는 각각 abstract, (default), final 로 명명한다.
