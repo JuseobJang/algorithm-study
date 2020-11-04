@@ -118,3 +118,6 @@
 >![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 15649 : N과 M(12)](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84%20-%EA%B8%B0%EC%B4%88%20:%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4%20(N%EA%B3%BCM)/15666)** 
 >
 
+**SW 역량테스트 준비 -기초 : 다이나믹 프로그래밍** [보기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84%20-%EA%B8%B0%EC%B4%88%20:%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 11052 : 카드 구매하기](https://github.com/wntjq68/algorithm-learn/tree/master/CodePlus/SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84%20-%EA%B8%B0%EC%B4%88%20:%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11052)** 
+>
