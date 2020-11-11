@@ -118,6 +118,12 @@
 >
 
 ### Dynamic Programming [보기](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming)
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 1463 : 1로 만들기 ](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/1463)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 11726 : 2xN 타일링 ](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11726)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 11727 : 2xN 타일링 2](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11727)** 
+>
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 11048 : 이동하기 ](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11048)** 
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 11052 : 카드 구매하기](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11052)** 
