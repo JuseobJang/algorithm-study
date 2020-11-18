@@ -134,6 +134,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 11057 : 오르막수](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11057)** 
 >
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 16194 : 카드 구매하기 2](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/16194)** 
+>
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 11066 : 파일 합치기](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11066)** 
 
 
