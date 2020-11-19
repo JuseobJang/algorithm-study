@@ -126,7 +126,9 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 11727 : 2xN 타일링 2](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11727)** 
 >
->![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 15958 : 1, 2, 3 더하기 3](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/15958)** 
+>![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 15990 : 1, 2, 3 더하기 5](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/15990)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 15958 : 1, 2, 3 더하기 3](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/15958)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 11048 : 이동하기 ](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11048)** 
 >
