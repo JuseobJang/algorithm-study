@@ -9,21 +9,15 @@
 5. Baekjoon 9095 : 1,2,3 더하기와 같은 순서와 논리이지만 수의 범위가 늘어나는 것이라 dp[]의 타입을 long으로 하고, 1000000까지 받을 수 있도록 하고 결과 마다 1000000009를 나누어 준다. 
 
 ```java
-for (int test = 0; test < t; test++) {
-    int n = Integer.parseInt(br.readLine());
-    for (int i = 4; i <= n; i++) {
-        for (int j = 1; j <= 3; j++) {
-            if (dp[i][j] != 0) {
-                continue;
+public static long[] dp = new long[1000001];
+
+dp[1] = 1;
+dp[2] = 2;
+dp[3] = 4;
+int n = Integer.parseInt(br.readLine());
+for (int i = 1; i <= n; i++) {
+    if (dp[i] == 0) {
+        dp[i] = (dp[i - 1] + dp[i - 2] + dp[i - 3]) % 1000000009;
             }
-            if (j == 1) {
-                dp[i][1] = (dp[i - 1][2] + dp[i - 1][3]) % mod;
-            } else if (j == 2) {
-                dp[i][2] = (dp[i - 2][1] + dp[i - 2][3]) % mod;
-            } else {
-                dp[i][3] = (dp[i - 3][1] + dp[i - 3][2]) % mod;
-        }
-    }
-}
-System.out.println((dp[n][1] + dp[n][2] + dp[n][3]) % mod);
+    System.out.println(dp[n] % 1000000009);
 ```
