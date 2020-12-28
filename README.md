@@ -153,3 +153,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 11066 : 파일 합치기](https://github.com/wntjq68/algorithm-learn/tree/master/Dynamic%20Programming/11066)** 
 
 
+### 문자열 알고리즘 [보기](https://github.com/wntjq68/algorithm-learn/tree/master/문자열%20알고리즘)
+>
+>![tier](https://img.shields.io/badge/Tier-Silver4-silver) **[Baekjoon 14426 : 접두사 찾기](https://github.com/wntjq68/algorithm-learn/tree/master/문자열%20알고리즘/14426)**
+>
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 14425 : 문자열 집합](https://github.com/wntjq68/algorithm-learn/tree/master/문자열%20알고리즘/14425)** 
