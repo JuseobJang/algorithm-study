@@ -158,3 +158,5 @@
 >![tier](https://img.shields.io/badge/Tier-Silver4-silver) **[Baekjoon 14426 : 접두사 찾기](https://github.com/wntjq68/algorithm-learn/tree/master/문자열%20알고리즘/14426)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 14425 : 문자열 집합](https://github.com/wntjq68/algorithm-learn/tree/master/문자열%20알고리즘/14425)** 
+>
+>![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 14425 : 문자열 집합](https://github.com/wntjq68/algorithm-learn/tree/master/문자열%20알고리즘/1786)** 
