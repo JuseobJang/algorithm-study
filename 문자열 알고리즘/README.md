@@ -7,3 +7,6 @@ Baekjoon 14426 : 접두사 찾기 README 참고
 
 ### KMP 알고리즘
 Baekjoon 1786 : 찾기 README 참고
+
+### 아호코라식 알고리즘
+Baekjoon 9250 : 문자열 집합 판별 README 참고
