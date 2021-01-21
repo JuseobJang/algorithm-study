@@ -168,3 +168,8 @@
 >![tier](https://img.shields.io/badge/Tier-Platinum3-platinum) **[Baekjoon 13505 : 두 수 XOR](https://github.com/wntjq68/algorithm-learn/tree/master/문자열%20알고리즘/13505)** 
 >
 >![tier](https://img.shields.io/badge/Tier-Platinum2-platinum) **[Baekjoon 9250 : 문자열 집합 판별](https://github.com/wntjq68/algorithm-learn/tree/master/문자열%20알고리즘/9250)** 
+
+### Segment Tree [보기](https://github.com/wntjq68/algorithm-learn/tree/master/Segment%20Tree)
+
+>![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 5676 : 음주 코딩](https://github.com/wntjq68/algorithm-learn/tree/master/Segment%20Tree/5676)**
+
