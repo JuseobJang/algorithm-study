@@ -173,3 +173,9 @@
 
 >![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 5676 : 음주 코딩](https://github.com/wntjq68/algorithm-learn/tree/master/Segment%20Tree/5676)**
 
+### 수열과 쿼리 [보기](/수열과%20쿼리)
+
+>![tier](https://img.shields.io/badge/Tier-Platinum4-platinum) **[Baekjoon 13537 : 수열과 쿼리 1](/수열과%20쿼리/13537)**
+>
+>![tier](https://img.shields.io/badge/Tier-Platinum3-platinum) **[Baekjoon 13544 : 수열과 쿼리 3](/수열과%20쿼리/13544)**
+>

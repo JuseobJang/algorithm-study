@@ -28,13 +28,13 @@
 >Get Started
 >
 >```java
->BufferedWriter bw = new BufferedWriter( new InputStreamReader(System.out));
+>BufferedWriter bw = new BufferedWriter( new OutputStreamWriter(System.out));
 >```
 >
 >Method
 >
 >```java
->bw.write("Juseob"); // 버퍼에 문자열을 쓴다.
+>bw.write("Juseob"); // 버퍼에 String 형 또는 char 만 넣을 수 있다.
 >bw.newLine(); // 개행을 추가한다.
 >bw.flush(); // 스트림을 비운다
 >bw.close(); // 스트림을 닫는다.
