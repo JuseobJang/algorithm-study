@@ -83,18 +83,16 @@ public class Main {
         dist[start] = 0;
 
         while (!pq.isEmpty()) {
-            Node cur = pq.poll();
+            int cur = pq.poll().getV();
 
             if (visit[cur]) {
                 continue;
             }
+            visit[cur] = true;
 
-            int curV = cur.getV();
-            visit[curV] = true;
-
-            for (Node next : list.get(v)) {
-                if (dist[next.getV()] > dist[curV] + next.getWeight()) {
-                    dist[next.getV()] = dist[curV] + next.getWeight();
+            for (Node next : list.get(cur)) {
+                if (dist[next.getV()] > dist[cur] + next.getWeight()) {
+                    dist[next.getV()] = dist[cur] + next.getWeight();
                     pq.add(new Node(next.getV(), dist[next.getV()]));
                 }
             }
