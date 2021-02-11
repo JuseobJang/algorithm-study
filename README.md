@@ -181,6 +181,15 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 11567 : 타임머신](/src/Baekjoon/최단경로/11647)**
 >
 
+### 최장증가수열(LIS) [보기](src/Baekjoon/최장증가수열(LIS))
+
+>![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 11053 : 가장 긴 증가하는 부분 수열](/src/Baekjoon/최장증가수열(LIS)/11053)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 14002 : 가장 긴 증가하는 부분 수열 4](/src/Baekjoon/최장증가수열(LIS)/14002)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 12015 : 가장 긴 증가하는 부분 수열 2](/src/Baekjoon/최장증가수열(LIS)/12015)**
+>
+
 ---
 
 ## Programmers
