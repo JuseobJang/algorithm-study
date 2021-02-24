@@ -199,6 +199,14 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1806 : 부분 합](/src/Baekjoon/Two%20Pointer/1806)**
 
+### 분리집합 [보기](src/Baekjoon/분리집합)
+
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16562 : 친구비](src/Baekjoon/분리집합/16562)**
+
+### 최소 스패닝 트리 [보기](src/Baekjoon/최소스패닝트리)
+
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 4386 : 별자리 만들기](src/Baekjoon/최소스패닝트리/4386)**
+
 ---
 
 ## Programmers
@@ -234,4 +242,9 @@
 >![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 디스크 컨트롤러](/src/Programmers/힙(Heap)/디스크%20컨트롤러)**
 >
 >![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 이중 우선순위 큐](/src/Programmers/힙(Heap)/이중%20우선순위%20큐)**
+>
+
+### 깊이&너비 우선 탐색(DFS&BFS) [보기](src/Programmers/깊이&너비%20우선%20탐색(DFS&BFS))
+
+>![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 네트워크](/src/Programmers/깊이&너비%20우선%20탐색(DFS&BFS)/네트워크)**
 >
