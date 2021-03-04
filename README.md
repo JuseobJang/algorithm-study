@@ -189,7 +189,7 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 12015 : 가장 긴 증가하는 부분 수열 2](/src/Baekjoon/최장증가수열(LIS)/12015)**
 
-### 최장증가수열(LDS) [보기](src/Baekjoon/최장감소수열(LDS))
+### 최장감소수열(LDS) [보기](src/Baekjoon/최장감소수열(LDS))
 
 >![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 11722 : 가장 긴 감소하는 부분 수열](/src/Baekjoon/최장감소수열(LDS)/11722)**
 
@@ -203,9 +203,15 @@
 
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16562 : 친구비](src/Baekjoon/분리집합/16562)**
 
-### 최소 스패닝 트리 [보기](src/Baekjoon/최소스패닝트리)
+### 최소 스패닝 트리(MST) [보기](src/Baekjoon/최소스패닝트리)
 
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 4386 : 별자리 만들기](src/Baekjoon/최소스패닝트리/4386)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 16398 : 행성연결](src/Baekjoon/최소스패닝트리/16398)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 14621 : 나만 안되는 연애](src/Baekjoon/최소스패닝트리/14621)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1944 : 복제인간](src/Baekjoon/최소스패닝트리/1944)**
 
 ---
 
