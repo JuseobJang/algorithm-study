@@ -213,6 +213,14 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1944 : 복제인간](src/Baekjoon/최소스패닝트리/1944)**
 
+### 구현 & 시뮬레이션 [보기](src/Baekjoon/구현%20&%20시뮬레이션/)
+
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 14891 : 톱니바퀴](src/Baekjoon/구현%20&%20시뮬레이션/14891/)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14499 : 주사위 굴리기](src/Baekjoon/구현%20&%20시뮬레이션/14499/)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14503 : 로봇 청소기](src/Baekjoon/구현%20&%20시뮬레이션/14503/)**
+
 ---
 
 ## Programmers
