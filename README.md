@@ -28,11 +28,15 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14502 : 연구소](/src/Baekjoon/DFS%20%26%20BFS/14502)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 2206 : 벽 부수고 이동하기](/src/Baekjoon/DFS%20%26%20BFS/2206)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 2573 : 빙산](/src/Baekjoon/DFS%20%26%20BFS/2573)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 16236 : 아기상어](/src/Baekjoon/DFS%20%26%20BFS/16236)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 1039 : 교환](/src/Baekjoon/DFS%20%26%20BFS/1039)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 1167 : 트리의 지름](/src/Baekjoon/DFS%20%26%20BFS/1167)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1525 : 퍼즐](/src/Baekjoon/DFS%20%26%20BFS/1525)**
 >
@@ -83,6 +87,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 1759 : 암호 만들기](/src/Baekjoon/Brute%20Force/1759)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14500 : 테트로미노](/src/Baekjoon/Brute%20Force/14500)**  
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 17471 : 게리멘더링](/src/Baekjoon/Brute%20Force/17471)**
 
 ### Brute Force N&M [보기](/src/Baekjoon/Brute%20Force%20N%26M)
 
@@ -217,9 +223,18 @@
 
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 14891 : 톱니바퀴](src/Baekjoon/구현%20&%20시뮬레이션/14891/)**
 >
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 20055 : 컨베이어 벨트 위의 로봇](src/Baekjoon/구현%20&%20시뮬레이션/20055/)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14499 : 주사위 굴리기](src/Baekjoon/구현%20&%20시뮬레이션/14499/)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14503 : 로봇 청소기](src/Baekjoon/구현%20&%20시뮬레이션/14503/)**
+
+### Bit Mask [보기](src/Baekjoon/Bit%20Mask/)
+
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1052 : 물병](src/Baekjoon/Bit%20Mask/1052)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 18119 : 단어 암기](src/Baekjoon/Bit%20Mask/18119)**
+>
 
 ---
 
@@ -261,4 +276,14 @@
 ### 깊이&너비 우선 탐색(DFS&BFS) [보기](src/Programmers/깊이&너비%20우선%20탐색(DFS&BFS))
 
 >![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 네트워크](/src/Programmers/깊이&너비%20우선%20탐색(DFS&BFS)/네트워크)**
+>
+
+### 스택&큐 [보기](src/Programmers/스택&큐/)
+
+>![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : 다리를 지나는 트럭](src/Programmers/스택&큐/다리를%20지나는%20트럭/)**
+>
+
+### 해시 [보기](src/Programmers/해시/)
+
+>![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 베스트 앨범](src/Programmers/해시/베스트앨범/)**
 >
