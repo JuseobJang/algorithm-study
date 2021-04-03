@@ -52,6 +52,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 9613 : GCD합](/src/Baekjoon/Math/9613)**
 >
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 21275 : 폰 호석만](/src/Baekjoon/Math/21275)**
+>
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 6588 : 골드바흐의 추측](/src/Baekjoon/Math/6588)**
 
 ### Brute Force [보기](/src/Baekjoon/Brute%20Force)
@@ -182,6 +184,8 @@
 
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 1753 : 최단 경로](/src/Baekjoon/최단경로/1753)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 21278 : 호석이 두마리 치킨](/src/Baekjoon/최단경로/21278)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 11404 : 플로이드](/src/Baekjoon/최단경로/11404)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 11567 : 타임머신](/src/Baekjoon/최단경로/11647)**
@@ -234,6 +238,11 @@
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1052 : 물병](src/Baekjoon/Bit%20Mask/1052)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 18119 : 단어 암기](src/Baekjoon/Bit%20Mask/18119)**
+>
+
+### Sorting [보기](src/Baekjoon/Sorting/)
+
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 21276 : 계보 복원가 호석](src/Baekjoon/Sorting/21276/)**
 >
 
 ---
