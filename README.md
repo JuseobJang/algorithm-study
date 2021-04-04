@@ -2,7 +2,8 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/wntjq68/algorithm-learn?color=red&logo=Java)
 
-**Baekjoon : [wntjq68](https://www.acmicpc.net/user/wntjq68)**
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjq68)](https://solved.ac/wntjq68)
+
 
 **[Java Class 정리](/src/Java%20Class)**
 
