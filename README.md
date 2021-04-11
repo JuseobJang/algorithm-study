@@ -29,6 +29,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14502 : 연구소](/src/Baekjoon/DFS%20%26%20BFS/14502)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1967 : 트리의 지름](/src/Baekjoon/DFS%20%26%20BFS/1)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 2206 : 벽 부수고 이동하기](/src/Baekjoon/DFS%20%26%20BFS/2206)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 2573 : 빙산](/src/Baekjoon/DFS%20%26%20BFS/2573)**
@@ -139,6 +141,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 15958 : 1, 2, 3 더하기 3](/src/Baekjoon/Dynamic%20Programming/15958)**
 >
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1149 : RGB 거리](/src/Baekjoon/Dynamic%20Programming/1149)**
+>
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 2156 : 포도주 시식](/src/Baekjoon/Dynamic%20Programming/2156)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 10844 : 쉬운 계단 수](/src/Baekjoon/Dynamic%20Programming/10844)**
@@ -233,6 +237,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14499 : 주사위 굴리기](src/Baekjoon/구현%20&%20시뮬레이션/14499/)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14503 : 로봇 청소기](src/Baekjoon/구현%20&%20시뮬레이션/14503/)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 15683 : 감시](src/Baekjoon/구현%20&%20시뮬레이션/15683/)**
 
 ### Bit Mask [보기](src/Baekjoon/Bit%20Mask/)
 
@@ -244,6 +250,8 @@
 ### Sorting [보기](src/Baekjoon/Sorting/)
 
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 21276 : 계보 복원가 호석](src/Baekjoon/Sorting/21276/)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 2252 : 줄 세우기](src/Baekjoon/Sorting/2252/)**
 >
 
 ---
