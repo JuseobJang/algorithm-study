@@ -4,7 +4,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjq68)](https://solved.ac/wntjq68)
 
-
 **[Java Class 정리](/src/Java%20Class)**
 
 ---
@@ -189,11 +188,19 @@
 
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 1753 : 최단 경로](/src/Baekjoon/최단경로/1753)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 1916 : 최소 비용 구하기](/src/Baekjoon/최단경로/1916)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 21278 : 호석이 두마리 치킨](/src/Baekjoon/최단경로/21278)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1504 : 특정한 최단 경로](/src/Baekjoon/최단경로/1504)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1865 : 웜홀](/src/Baekjoon/최단경로/1865)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 11404 : 플로이드](/src/Baekjoon/최단경로/11404)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 11567 : 타임머신](/src/Baekjoon/최단경로/11647)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 1238 : 파티](/src/Baekjoon/최단경로/1238)**
 >
 
 ### 최장증가수열(LIS) [보기](src/Baekjoon/최장증가수열(LIS))
