@@ -56,6 +56,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 21275 : 폰 호석만](/src/Baekjoon/Math/21275)**
 >
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1629 : 곱셈](/src/Baekjoon/Math/1629)**
+>
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 6588 : 골드바흐의 추측](/src/Baekjoon/Math/6588)**
 
 ### Brute Force [보기](/src/Baekjoon/Brute%20Force)
@@ -142,6 +144,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1149 : RGB 거리](/src/Baekjoon/Dynamic%20Programming/1149)**
 >
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1932 : 정수 삼각형](/src/Baekjoon/Dynamic%20Programming/1932)**
+>
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 2156 : 포도주 시식](/src/Baekjoon/Dynamic%20Programming/2156)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 10844 : 쉬운 계단 수](/src/Baekjoon/Dynamic%20Programming/10844)**
@@ -155,6 +159,8 @@
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 16194 : 카드 구매하기 2](/src/Baekjoon/Dynamic%20Programming/16194)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 14002 : 가장 긴 증가하는 부분수열 4](/src/Baekjoon/Dynamic%20Programming/15958)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 2533 : 사회망 서비스(SNS)](/src/Baekjoon/Dynamic%20Programming/2533)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 11066 : 파일 합치기](/src/Baekjoon/Dynamic%20Programming/11066)**
 
