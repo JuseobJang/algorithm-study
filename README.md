@@ -18,6 +18,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 3190 : 뱀](/src/Baekjoon/Stack%20%26%20Queue/3190)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1918 : 후위표기식](/src/Baekjoon/Stack%20%26%20Queue/1918)**
+>
 > ![tier](https://img.shields.io/badge/Tier-Platinum4-platinum) **[Baekjoon 2867 : 수열의 값](/src/Baekjoon/Stack%20%26%20Queue/2867)**
 
 ### DFS & BFS [보기](/src/Baekjoon/DFS%20%26%20BFS)
@@ -183,6 +185,8 @@
 ### Segment Tree [보기](/src/Baekjoon/Segment%20Tree)
 
 >![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 5676 : 음주 코딩](/src/Baekjoon/Segment%20Tree/5676)**
+>
+>![tier](https://img.shields.io/badge/Tier-Platinum5-Platinum) **[Baekjoon 16566 : 카드게임](/src/Baekjoon/Segment%20Tree/16566)**
 
 ### 수열과 쿼리 [보기](/src/Baekjoon/수열과%20쿼리)
 
@@ -216,6 +220,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 14002 : 가장 긴 증가하는 부분 수열 4](/src/Baekjoon/최장증가수열(LIS)/14002)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 12015 : 가장 긴 증가하는 부분 수열 2](/src/Baekjoon/최장증가수열(LIS)/12015)**
+>
+>![tier](https://img.shields.io/badge/Tier-Platinum5-platinum) **[Baekjoon 14003 : 가장 긴 증가하는 부분 수열 5](/src/Baekjoon/최장증가수열(LIS)/14003)**
 
 ### 최장감소수열(LDS) [보기](src/Baekjoon/최장감소수열(LDS))
 
@@ -252,6 +258,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14503 : 로봇 청소기](src/Baekjoon/구현%20&%20시뮬레이션/14503/)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 15683 : 감시](src/Baekjoon/구현%20&%20시뮬레이션/15683/)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17406 : 배열 돌리기 4](src/Baekjoon/구현%20&%20시뮬레이션/17406/)**
 
 ### Bit Mask [보기](src/Baekjoon/Bit%20Mask/)
 
@@ -276,6 +284,13 @@
 >![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : 괄호 변환](/src/Programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/괄호%20변환)**
 >
 >![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : 문자열 압축](/src/Programmers/2020%20KAKAO%20BLIND%20RECRUITMENT/문자열%20압축)**
+
+### 2020 KAKAO 인턴십 [보기](/src/Programmers/2020%20KAKAO%20인턴십/보석쇼핑/)
+
+>![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : 수식 최대화](/src/Programmers/2020%20KAKAO%20인턴십/수식%20최대화/)**
+>
+>![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : 보석 쇼핑](/src/Programmers/2020%20KAKAO%20인턴십/보석쇼핑/)**
+>
 
 ### 2021 KAKAO BLIND RECRUITMENT [보기](/src/Programmers/2021%20KAKAO%20BLIND%20RECRUITMENT)
 
