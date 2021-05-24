@@ -97,6 +97,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14500 : 테트로미노](/src/Baekjoon/Brute%20Force/14500)**  
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 17471 : 게리멘더링](/src/Baekjoon/Brute%20Force/17471)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 16571 : 알파 틱택토](/src/Baekjoon/Brute%20Force/16571)**
 
 ### Brute Force N&M [보기](/src/Baekjoon/Brute%20Force%20N%26M)
 
@@ -252,6 +254,8 @@
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 14891 : 톱니바퀴](src/Baekjoon/구현%20&%20시뮬레이션/14891/)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 20055 : 컨베이어 벨트 위의 로봇](src/Baekjoon/구현%20&%20시뮬레이션/20055/)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 2174 : 로봇 시뮬레이션](src/Baekjoon/구현%20&%20시뮬레이션/2174/)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14499 : 주사위 굴리기](src/Baekjoon/구현%20&%20시뮬레이션/14499/)**
 >
