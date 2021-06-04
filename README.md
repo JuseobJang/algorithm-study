@@ -167,6 +167,10 @@
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 2533 : 사회망 서비스(SNS)](/src/Baekjoon/Dynamic%20Programming/2533)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 11066 : 파일 합치기](/src/Baekjoon/Dynamic%20Programming/11066)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 19645 : 햄최몇?](/src/Baekjoon/Dynamic%20Programming/19645)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 16639 : 괄호 추가하기 3](/src/Baekjoon/Dynamic%20Programming/16639)**
 
 ### 문자열 알고리즘 [보기](/src/Baekjoon/문자열%20알고리즘)
 
@@ -241,6 +245,8 @@
 
 ### 최소 스패닝 트리(MST) [보기](src/Baekjoon/최소스패닝트리)
 
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1197 : 최소 스패닝 트리](src/Baekjoon/최소스패닝트리/1197)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 4386 : 별자리 만들기](src/Baekjoon/최소스패닝트리/4386)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 16398 : 행성연결](src/Baekjoon/최소스패닝트리/16398)**
@@ -251,6 +257,10 @@
 
 ### 구현 & 시뮬레이션 [보기](src/Baekjoon/구현%20&%20시뮬레이션/)
 
+>![tier](https://img.shields.io/badge/Tier-Bronze1-brown) **[Baekjoon 20546 : 기적의 매매법](src/Baekjoon/구현%20&%20시뮬레이션/20546/)**
+>
+>![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 4396 : 지뢰 찾기](src/Baekjoon/구현%20&%20시뮬레이션/4396/)**
+>
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 14891 : 톱니바퀴](src/Baekjoon/구현%20&%20시뮬레이션/14891/)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 20055 : 컨베이어 벨트 위의 로봇](src/Baekjoon/구현%20&%20시뮬레이션/20055/)**
@@ -282,6 +292,10 @@
 ---
 
 ## Programmers
+
+### 2018 KAKAO BLIND RECRUITMENT [보기](/src/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/)
+
+>![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 추석 트래픽](/src/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/추석%20트래픽)**
 
 ### 2020 KAKAO BLIND RECRUITMENT [보기](/src/Programmers/2020%20KAKAO%20BLIND%20RECRUITMENT)
 
