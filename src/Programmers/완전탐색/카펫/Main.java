@@ -1,3 +1,5 @@
+package Programmers.완전탐색.카펫;
+
 public class Main {
     public static void main(String[] args) {
         Solution sol = new Solution();

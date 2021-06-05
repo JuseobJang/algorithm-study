@@ -1,6 +1,7 @@
 *.class
+out
 .DS_store
-2098
-2800
-2021 KAKAO 인턴십
-2021 Summer
+BOJ2098
+BOJ2800
+Kakao인턴십2021
+ProgrammersSummer2021

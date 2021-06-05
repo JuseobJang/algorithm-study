@@ -1,3 +1,5 @@
+package Programmers.이분탐색.입국심사;
+
 import java.util.*;
 import java.lang.Math;
 
