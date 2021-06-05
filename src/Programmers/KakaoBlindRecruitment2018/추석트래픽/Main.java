@@ -1,3 +1,5 @@
+package Programmers.KakaoBlindRecruitment2018.추석트래픽;
+
 public class Main {
     public static void main(String[] args) {
         Solution sol = new Solution();
