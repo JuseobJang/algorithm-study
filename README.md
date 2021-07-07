@@ -223,6 +223,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 1238 : 파티](src/Baekjoon/ShortestPath/BOJ1238)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1738 : 골목길](src/Baekjoon/ShortestPath/BOJ1738)**
+>
 
 ### Simulation(구현 & 시뮬레이) [보기](src/Baekjoon/Simulation)
 
@@ -253,6 +255,8 @@
 
 ### String Algorithm(문자열 알고리즘) [보기](/src/Baekjoon/StringAlgorithm)
 
+>![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 12933 : 오리](/src/Baekjoon/StringAlgorithm/BOJ12933)**
+>
 >![tier](https://img.shields.io/badge/Tier-Silver4-silver) **[Baekjoon 14426 : 접두사 찾기](/src/Baekjoon/StringAlgorithm/BOJ14426)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 14425 : 문자열 집합](/src/Baekjoon/StringAlgorithm/BOJ14425)**
@@ -282,14 +286,20 @@
 
 ### Two Pointer [보기](src/Baekjoon/TwoPointer)
 
+>![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 6503 : 망가진 키보드](/src/Baekjoon/TwoPointer/BOJ6503)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 15961 : 회전 초밥](/src/Baekjoon/TwoPointer/BOJ15961)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1806 : 부분 합](/src/Baekjoon/TwoPointer/BOJ1806)**
 
 ### Union Find(분리집합) [보기](src/Baekjoon/UnionFind)
 
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1043 : 거짓말](src/Baekjoon/UnionFind/BOj1043)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16562 : 친구비](src/Baekjoon/UnionFind/BOj16562)**
-
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 4195 : 친구 네트워크](src/Baekjoon/UnionFind/BOJ4195)**
+>
 ---
 
 ## Programmers
@@ -314,6 +324,11 @@
 >![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : 수식 최대화](/src/Programmers/Kakao인턴십2020/수식최대화)**
 >
 >![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : 보석 쇼핑](/src/Programmers/Kakao인턴십2020/보석쇼핑)**
+>
+
+### Code Challenge Seoson 1 [보기](/src/Programmers/CodeChallengeSeason1)
+
+>![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 스타 수열](/src/Programmers/CodeChallengeSeason1/스타수열)**
 >
 
 ### 그래프 [보기](/src/Programmers/그래프)
