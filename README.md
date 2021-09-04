@@ -19,41 +19,47 @@
 
 ### Brute Force [보기](/src/Baekjoon/BruteForce)
 
->![tier](https://img.shields.io/badge/Tier-Bronze2-brown) **[Baekjoon 2309 : 일곱 난쟁이](/src/Baekjoon/BruteForce/BOJ2309)**
+>![tier](https://img.shields.io/badge/Tier-Bronze2-brown) **[Baekjoon 2231 : 분해합](src/Baekjoon/BruteForce/BOJ2231)**
 >
->![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 1476 : 날짜계산](/src/Baekjoon/BruteForce/BOJ1476)**
+>![tier](https://img.shields.io/badge/Tier-Bronze2-brown) **[Baekjoon 2309 : 일곱 난쟁이](src/Baekjoon/BruteForce/BOJ2309)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 11723 : 집합](/src/Baekjoon/BruteForce/BOJ11723)**
+>![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 1476 : 날짜계산](src/Baekjoon/BruteForce/BOJ1476)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 14501 : 퇴사](/src/Baekjoon/BruteForce/BOJ14501)**
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 11723 : 집합](src/Baekjoon/BruteForce/BOJ11723)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 15658 : 연산자 끼워넣기(2)](/src/Baekjoon/BruteForce/BOJ15658)**  
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 14501 : 퇴사](src/Baekjoon/BruteForce/BOJ14501)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 9095 : 1,2,3 더하기](/src/Baekjoon/BruteForce/BOJ9095)**  
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 15658 : 연산자 끼워넣기(2)](src/Baekjoon/BruteForce/BOJ15658)**  
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10972 : 다음 순열](/src/Baekjoon/BruteForce/BOJ10972)**
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 9095 : 1,2,3 더하기](src/Baekjoon/BruteForce/BOJ9095)**  
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10973 : 이전 순열](/src/Baekjoon/BruteForce/BOJ10973)**
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10972 : 다음 순열](src/Baekjoon/BruteForce/BOJ10972)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10974 : 모든 순열](/src/Baekjoon/BruteForce/BOJ10974)**  
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10973 : 이전 순열](src/Baekjoon/BruteForce/BOJ10973)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 1182 : 부분수열의 합](/src/Baekjoon/BruteForce/BOJ1182)**  
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10974 : 모든 순열](src/Baekjoon/BruteForce/BOJ10974)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 6603 : 로또](/src/Baekjoon/BruteForce/BOJ6603)**
+>![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 1182 : 부분수열의 합](src/Baekjoon/BruteForce/BOJ1182)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 10819 : 차이를 최대로](/src/Baekjoon/BruteForce/BOJ10819)**
+>![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 6603 : 로또](src/Baekjoon/BruteForce/BOJ6603)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10971 : 왼판원 순회2](/src/Baekjoon/BruteForce/BOJ10971)**
+>![tier](https://img.shields.io/badge/Tier-Siver2-silver) **[Baekjoon 10819 : 차이를 최대로](src/Baekjoon/BruteForce/BOJ10819)**
 >
->![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 14888 : 연산자 끼워넣기](/src/Baekjoon/BruteForce/BOJ14888)**
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 10971 : 왼판원 순회2](src/Baekjoon/BruteForce/BOJ10971)**
 >
->![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 1759 : 암호 만들기](/src/Baekjoon/BruteForce/BOJ1759)**
+>![tier](https://img.shields.io/badge/Tier-Siver3-silver) **[Baekjoon 14888 : 연산자 끼워넣기](src/Baekjoon/BruteForce/BOJ14888)**
 >
->![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14500 : 테트로미노](/src/Baekjoon/BruteForce/BOJ14500)**  
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 1759 : 암호 만들기](src/Baekjoon/BruteForce/BOJ1759)**
 >
->![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 17471 : 게리멘더링](/src/Baekjoon/BruteForce/BOJ17471)**
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14500 : 테트로미노](src/Baekjoon/BruteForce/BOJ14500)**
 >
->![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 16571 : 알파 틱택토](/src/Baekjoon/BruteForce/BOJ16571)**
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 17471 : 게리멘더링](src/Baekjoon/BruteForce/BOJ17471)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 20164 : 홀수 홀릭 호석](src/Baekjoon/BruteForce/BOJ20164)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1022 : 가르침](src/Baekjoon/BruteForce/BOJ1022)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 16571 : 알파 틱택토](src/Baekjoon/BruteForce/BOJ16571)**
 
 ### Brute Force N&M [보기](/src/Baekjoon/BruteForceNandM)
 
@@ -81,13 +87,26 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 15649 : N과 M(12)](/src/Baekjoon/BruteForceNandM/BOJ15666)**
 
-### DFS & BFS [보기](/src/Baekjoon/DFSAndBFS)
+### Cumulative Sum [보기](src/Baekjoon/CumulativeSum)
+
+>![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 21758 : 꿀 따기](src/Baekjoon/CumulativeSum/BOJ10713)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 10713 : 기차 여행](src/Baekjoon/CumulativeSum/BOJ10713)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 2571 : 색종이 - 3](src/Baekjoon/CumulativeSum/BOJ2571)**
+
+
+### DFS & BFS [보기](src/Baekjoon/DFSAndBFS)
 
 >![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 1260 : DFS와 BFS](/src/Baekjoon/DFSAndBFS/BOJ1260)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 2178 : 미로탐색](/src/Baekjoon/DFSAndBFS/BOJ2178)**
 >
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1743 : 음식물 피하기](/src/Baekjoon/DFSAndBFS/BOJ1743)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 14502 : 연구소](/src/Baekjoon/DFSAndBFS/BOJ14502)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1939 : 중량제한](/src/Baekjoon/DFSAndBFS/BOJ1939)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1967 : 트리의 지름](/src/Baekjoon/DFSAndBFS/BOJ1967)**
 >
@@ -100,6 +119,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 1039 : 교환](/src/Baekjoon/DFSAndBFS/BOJ1039)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 1167 : 트리의 지름](/src/Baekjoon/DFSAndBFS/BOJ1167)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 9466 : 텀 프로젝트](/src/Baekjoon/DFSAndBFS/BOJ9466)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1525 : 퍼즐](/src/Baekjoon/DFSAndBFS/BOJ1525)**
 >
@@ -150,6 +171,8 @@
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 19645 : 햄최몇?](/src/Baekjoon/DynamicProgramming/BOJ19645)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 16639 : 괄호 추가하기 3](/src/Baekjoon/DynamicProgramming/BOJ16639)**
+>>
+>![tier](https://img.shields.io/badge/Tier-Platinum5-platinum) **[Baekjoon 15678 : 연세워터파크](/src/Baekjoon/DynamicProgramming/BOJ15678)**
 
 ### Longest Decreasing Sequence(최장 감소 수열) [보기](src/Baekjoon/LongestDecreasingSequence)
 
@@ -180,6 +203,8 @@
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1629 : 곱셈](src/Baekjoon/Math/BOJ1629)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 6588 : 골드바흐의 추측](src/Baekjoon/Math/BOJ6588)**
+>>
+>![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1007 : 벡터 매칭](src/Baekjoon/Math/BOJ1007)**
 
 ### Minimum Spanning Tree(최소 스패닝 트리) [보기](src/Baekjoon/MinimumSpanningTree)
 
@@ -221,6 +246,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 11657 : 타임머신](src/Baekjoon/ShortestPath/BOJ11657)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 14938 : 서강그라운드](src/Baekjoon/ShortestPath/BOJ14938)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 1238 : 파티](src/Baekjoon/ShortestPath/BOJ1238)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1738 : 골목길](src/Baekjoon/ShortestPath/BOJ1738)**
@@ -232,9 +259,13 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 4396 : 지뢰 찾기](src/Baekjoon/Simulation/BOJ4396)**
 >
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 17204 : 죽음의 게임](src/Baekjoon/Simulation/BOJ17204)**
+>
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 14891 : 톱니바퀴](src/Baekjoon/Simulation/BOJ14891)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 20055 : 컨베이어 벨트 위의 로봇](src/Baekjoon/Simulation/BOJ20055)**
+>
+>![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 2877 : 4와 7](src/Baekjoon/Simulation/BOJ2877)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 2174 : 로봇 시뮬레이션](src/Baekjoon/Simulation/BOJ2174)**
 >
@@ -244,10 +275,18 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 15683 : 감시](src/Baekjoon/Simulation/BOJ15683)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1022 : 소용돌이 예쁘게 출력하기](src/Baekjoon/Simulation/BOJ1022)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 17406 : 배열 돌리기 4](src/Baekjoon/Simulation/BOJ17406)**
 
 ### Sorting [보기](src/Baekjoon/Sorting)
 
+>![tier](https://img.shields.io/badge/Tier-Silver4-silver) **[Baekjoon 1302 : 베스트 셀러](src/Baekjoon/Sorting/BOJ1302)**
+>
+>![tier](https://img.shields.io/badge/Tier-Silver4-silver) **[Baekjoon 2108 : 통계학](src/Baekjoon/Sorting/BOJ2108)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 1092 : 배](src/Baekjoon/Sorting/BOJ1092)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 21276 : 계보 복원가 호석](src/Baekjoon/Sorting/BOJ21276)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 2252 : 줄 세우기](src/Baekjoon/Sorting/BOJ2252)**
@@ -255,21 +294,25 @@
 
 ### String Algorithm(문자열 알고리즘) [보기](/src/Baekjoon/StringAlgorithm)
 
->![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 12933 : 오리](/src/Baekjoon/StringAlgorithm/BOJ12933)**
+>![tier](https://img.shields.io/badge/Tier-Silver5-silver) **[Baekjoon 12933 : 오리](src/Baekjoon/StringAlgorithm/BOJ12933)**
 >
->![tier](https://img.shields.io/badge/Tier-Silver4-silver) **[Baekjoon 14426 : 접두사 찾기](/src/Baekjoon/StringAlgorithm/BOJ14426)**
+>![tier](https://img.shields.io/badge/Tier-Silver4-silver) **[Baekjoon 14426 : 접두사 찾기](src/Baekjoon/StringAlgorithm/BOJ14426)**
 >
->![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 14425 : 문자열 집합](/src/Baekjoon/StringAlgorithm/BOJ14425)**
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 14425 : 문자열 집합](src/Baekjoon/StringAlgorithm/BOJ14425)**
 >
->![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 1786 : 찾기](/src/Baekjoon/StringAlgorithm/BOJ1786)**
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 9252 : LCS2](/src/Baekjoon/StringAlgorithm/BOJ9252)**
 >
->![tier](https://img.shields.io/badge/Tier-Platinum5-platinum) **[Baekjoon 1305 : 광고](/src/Baekjoon/StringAlgorithm/BOJ1305)**
+>![tier](https://img.shields.io/badge/Tier-Gold1-gold) **[Baekjoon 1786 : 찾기](src/Baekjoon/StringAlgorithm/BOJ1786)**
 >
->![tier](https://img.shields.io/badge/Tier-Platinum3-platinum) **[Baekjoon 10256 : 돌연변이](/src/Baekjoon/StringAlgorithm/BOJ10256)**
+>![tier](https://img.shields.io/badge/Tier-Platinum5-platinum) **[Baekjoon 1305 : 광고](src/Baekjoon/StringAlgorithm/BOJ1305)**
 >
->![tier](https://img.shields.io/badge/Tier-Platinum3-platinum) **[Baekjoon 13505 : 두 수 XOR](/src/Baekjoon/StringAlgorithm/BOJ13505)**
+>![tier](https://img.shields.io/badge/Tier-Platinum4-platinum) **[Baekjoon 5670 : 휴대폰 자판](src/Baekjoon/StringAlgorithm/BOJ5670)**
 >
->![tier](https://img.shields.io/badge/Tier-Platinum2-platinum) **[Baekjoon 9250 : 문자열 집합 판별](/src/Baekjoon/StringAlgorithm/BOJ9250)**
+>![tier](https://img.shields.io/badge/Tier-Platinum3-platinum) **[Baekjoon 10256 : 돌연변이](src/Baekjoon/StringAlgorithm/BOJ10256)**
+>
+>![tier](https://img.shields.io/badge/Tier-Platinum3-platinum) **[Baekjoon 13505 : 두 수 XOR](src/Baekjoon/StringAlgorithm/BOJ13505)**
+>
+>![tier](https://img.shields.io/badge/Tier-Platinum2-platinum) **[Baekjoon 9250 : 문자열 집합 판별](src/Baekjoon/StringAlgorithm/BOJ9250)**
 
 ### Stack & Queue [보기](/src/Baekjoon/StackAndQueue)
 
@@ -291,10 +334,12 @@
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 15961 : 회전 초밥](/src/Baekjoon/TwoPointer/BOJ15961)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1806 : 부분 합](/src/Baekjoon/TwoPointer/BOJ1806)**
+>>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 3649 : 로봇 프로젝트](/src/Baekjoon/TwoPointer/BOJ3649)**
 
 ### Union Find(분리집합) [보기](src/Baekjoon/UnionFind)
 
->![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1043 : 거짓말](src/Baekjoon/UnionFind/BOj1043)**
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 1043 : 거짓말](src/Baekjoon/UnionFind/BOJ1043)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 16562 : 친구비](src/Baekjoon/UnionFind/BOj16562)**
 >
@@ -382,4 +427,3 @@
 >![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 디스크 컨트롤러](/src/Programmers/힙/디스크컨트롤러)**
 >
 >![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 이중 우선순위 큐](/src/Programmers/힙/이중우선순위큐)**
->
