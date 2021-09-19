@@ -162,6 +162,8 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 16194 : 카드 구매하기 2](/src/Baekjoon/DynamicProgramming/BOJ16194)**
 >
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 17845 : 수강 과목](/src/Baekjoon/DynamicProgramming/BOJ17845)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 14002 : 가장 긴 증가하는 부분수열 4](/src/Baekjoon/DynamicProgramming/BOJ14002)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 2533 : 사회망 서비스(SNS)](/src/Baekjoon/DynamicProgramming/BOJ2533)**
@@ -203,7 +205,9 @@
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 1629 : 곱셈](src/Baekjoon/Math/BOJ1629)**
 >
 >![tier](https://img.shields.io/badge/Tier-Silver1-silver) **[Baekjoon 6588 : 골드바흐의 추측](src/Baekjoon/Math/BOJ6588)**
->>
+>
+>![tier](https://img.shields.io/badge/Tier-Gold4-gold) **[Baekjoon 10830 : 행렬 제곱](src/Baekjoon/Math/BOJ10830)**
+>
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1007 : 벡터 매칭](src/Baekjoon/Math/BOJ1007)**
 
 ### Minimum Spanning Tree(최소 스패닝 트리) [보기](src/Baekjoon/MinimumSpanningTree)
@@ -374,6 +378,15 @@
 ### Code Challenge Seoson 1 [보기](/src/Programmers/CodeChallengeSeason1)
 
 >![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 스타 수열](/src/Programmers/CodeChallengeSeason1/스타수열)**
+>
+
+### Weekly Challenge [보기](src/Programmers/WeeklyChallenge)
+
+>![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : Week5 모음사전](src/Programmers/WeeklyChallenge/Week5)**
+>
+>![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : Week6 복서 정렬하기](src/Programmers/WeeklyChallenge/Week6)**
+>
+>![lev](https://img.shields.io/badge/Level2-blue) **[Programmers : Week7 입실퇴실](src/Programmers/WeeklyChallenge/Week7)**
 >
 
 ### 그래프 [보기](/src/Programmers/그래프)
