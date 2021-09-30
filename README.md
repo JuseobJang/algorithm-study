@@ -87,15 +87,6 @@
 >
 >![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 15649 : N과 M(12)](/src/Baekjoon/BruteForceNandM/BOJ15666)**
 
-### Cumulative Sum [보기](src/Baekjoon/CumulativeSum)
-
->![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 21758 : 꿀 따기](src/Baekjoon/CumulativeSum/BOJ10713)**
->
->![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 10713 : 기차 여행](src/Baekjoon/CumulativeSum/BOJ10713)**
->
->![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 2571 : 색종이 - 3](src/Baekjoon/CumulativeSum/BOJ2571)**
-
-
 ### DFS & BFS [보기](src/Baekjoon/DFSAndBFS)
 
 >![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 1260 : DFS와 BFS](/src/Baekjoon/DFSAndBFS/BOJ1260)**
@@ -221,6 +212,15 @@
 >![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 14621 : 나만 안되는 연애](src/Baekjoon/MinimumSpanningTree/BOJ14621)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold2-gold) **[Baekjoon 1944 : 복제인간](src/Baekjoon/MinimumSpanningTree/BOJ1944)**
+
+### Prefix Sum [보기](src/Baekjoon/PrefixSum)
+
+>![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 21758 : 꿀 따기](src/Baekjoon/PrefixSum/BOJ10713)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 10713 : 기차 여행](src/Baekjoon/PrefixSum/BOJ10713)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold3-gold) **[Baekjoon 2571 : 색종이 - 3](src/Baekjoon/PrefixSum/BOJ2571)**
+
 
 ### Segment Tree [보기](/src/Baekjoon/SegmentTree)
 
