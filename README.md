@@ -215,7 +215,13 @@
 
 ### Prefix Sum [보기](src/Baekjoon/PrefixSum)
 
+>![tier](https://img.shields.io/badge/Tier-Silver3-silver) **[Baekjoon 2559 : 수열](src/Baekjoon/PrefixSum/BOJ2559)**
+>
+>![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 2725 : 보이는 점의 개수](src/Baekjoon/PrefixSum/BOJ2725)**
+>
 >![tier](https://img.shields.io/badge/Tier-Silver2-silver) **[Baekjoon 21758 : 꿀 따기](src/Baekjoon/PrefixSum/BOJ10713)**
+>
+>![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 3020 : 개똥벌레](src/Baekjoon/PrefixSum/BOJ3020)**
 >
 >![tier](https://img.shields.io/badge/Tier-Gold5-gold) **[Baekjoon 10713 : 기차 여행](src/Baekjoon/PrefixSum/BOJ10713)**
 >
