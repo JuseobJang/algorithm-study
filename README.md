@@ -447,5 +447,4 @@
 >
 >![lev](https://img.shields.io/badge/Level3-purple) **[Programmers : 이중 우선순위 큐](/src/Programmers/힙/이중우선순위큐)**
 
-
-[test](apptest://greeting1/juseob)
+<a href="intent://greeting/seob#Intent;scheme=testapp;end">click</a>
